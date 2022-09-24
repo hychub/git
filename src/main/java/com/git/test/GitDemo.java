@@ -22,4 +22,8 @@ public class GitDemo {
     public static void function_mix(){
         System.out.println("双分支修复版本1.03.01");
     }
+    
+     public static void function_mixing(){
+        System.out.println("修复版本2.02.01");
+    }
 }
