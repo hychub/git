@@ -8,6 +8,7 @@ public class GitDemo {
         function_fix();
         function_mixed();
         function_mix();
+        System.out.println("第二版2.01.00");
     }
 
     public static void function_fix(){
